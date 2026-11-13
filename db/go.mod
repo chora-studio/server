@@ -3,7 +3,7 @@ module github.com/chora-io/server/db
 go 1.22
 
 require (
-	github.com/lib/pq v1.10.9
+	github.com/lib/pq v1.12.3
 	github.com/pressly/goose/v3 v3.20.0
 	github.com/rs/zerolog v1.33.0
 	github.com/simukti/sqldb-logger v0.0.0-20220521163925-faf2f2be0eb6
